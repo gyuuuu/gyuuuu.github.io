@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "devlog"
+  - title: "Devlog"
     url: /categories/devlog/
+  - title: "Javascript"
+    url: /categories/javascript/
   - title: "InternShip"
     url: /categories/intern/
   - title: "Categories"

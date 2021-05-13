@@ -1,9 +1,9 @@
 ---
-title: "about javascript"
+title: "javascript"
 permalink: /categories/javascript/
 layout: category
 author_profile: true
 taxonomy: javascript
 ---
 
-javascript 관련 글 모음입니다.
+javascript 공부 기록
